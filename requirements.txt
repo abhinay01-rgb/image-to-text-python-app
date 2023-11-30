@@ -1,1 +1,4 @@
-easy-ocr
+streamlit
+easyocr
+numpy
+Pillow
